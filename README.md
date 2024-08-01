@@ -51,5 +51,5 @@ The script uses pyparsing to define the grammar and parse logical expressions. T
 ## Contribution
 - Feel free to contribute to the project by submitting issues and pull requests. Follow the standard GitHub contribution guidelines.
 
-##License
--This project is licensed under the MIT License - see the LICENSE file for details.
+## License
+- This project is licensed under the MIT License - see the LICENSE file for details.
